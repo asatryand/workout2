@@ -1,0 +1,13 @@
+name: workout2
+title: workout2
+username:
+account: asatryand
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 873352
+bundleId: 2019807
+url: https://asatryand.shinyapps.io/workout2/
+when: 1555540417.8925
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
